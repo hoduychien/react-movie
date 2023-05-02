@@ -1,0 +1,17 @@
+.carousel {
+    &-wrapper {
+        position: relative;
+        margin-bottom: 70px;
+        .wrapper {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+    }
+    &-title {
+        font-size: 18px;
+        font-weight: 300;
+        color: white;
+    }
+}
